@@ -142,3 +142,75 @@ body{
     font-weight: 300;
 }
 
+.five-sec{
+    height:300px;
+    margin-top:150px;
+    
+    font-size:20px;
+    font-weight:bold;
+    width:100%;
+   
+    
+}
+.input1{
+    width:400px;
+    height:30px;
+    border:2px solid greenyellow;
+    border-radius: 10px;
+}
+
+.pass{
+    width:400px;
+    height:30px;
+    border:2px solid greenyellow;
+    border-radius: 10px;
+}
+.button{
+    padding:10px 20px;
+    color:royalblue;
+    background-color:darksalmon;
+    border:2px solid greenyellow;
+    border-radius: 10px;
+    
+}
+.five-sec-dev1{
+    margin:auto;
+    width:50%;
+    border: 1px solid cadetblue;
+    border-radius:10px;
+    background-color: cyan;
+    padding:50px;
+   
+    
+}
+
+.input1:focus{
+    width:500px;
+    color:darkmagenta;
+}
+.pass:focus{
+    width:500px;
+    color: darkmagenta;
+}
+.five-h{
+    color:orange;
+    
+}
+.five-h:hover{
+    color:orangered;
+    font-size:35px;
+
+}
+.un:hover{
+    color:darkgoldenrod;
+    font-size: 35px;
+}
+.ps:hover{
+    color:darkgoldenrod;
+    font-size: 35px;;
+}
+.buttton:hover{
+    color:darkgoldenrod;
+    padding:10px 40px;
+    transition:2s;
+}
